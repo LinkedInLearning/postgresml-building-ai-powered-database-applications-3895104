@@ -1,5 +1,5 @@
-# COURSENAME
-This is the repository for the LinkedIn Learning course `course-name`. The full course is available from [LinkedIn Learning][lil-course-url].
+# PostgresML: Building AI Powered Database Applications
+This is the repository for the LinkedIn Learning course `PostgresML: Building AI Powered Database Applications`. The full course is available from [LinkedIn Learning][lil-course-url].
 
 ![lil-thumbnail-url]
 
